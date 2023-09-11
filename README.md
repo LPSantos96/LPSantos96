@@ -1,0 +1,4 @@
+- 👋 Olá, sou Lucas Santos
+- 👀 Atualmente trabalho como financeiro e possuo interesse em tecnologias para agregar valor ao meu trabalho
+- 🌱 Atualmente, estou aprendendo Python e VBA
+- 📫 Para entrar em contato, me envie um e-mail contabeis.lucassantos@gmail.com
